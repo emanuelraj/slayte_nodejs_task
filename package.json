@@ -1,0 +1,16 @@
+{
+  "name": "han-test",
+  "version": "1.0.0",
+  "description": "Node js test for Updating endpoint with promise",
+  "main": "main.js",
+  "dependencies": {
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allen Emanuel Raj D",
+  "license": "ISC"
+}
